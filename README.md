@@ -1,5 +1,5 @@
 # Frontend Mentor - Social Links Profile Solution 🔗
-This is my solution to the Social links profile challenge on Frontend Mentor.
+This is my solution to the [Social links profile challenge](https://social-links-profile-eight-ivory.vercel.app/) on Frontend Mentor.
 
 ## Overview ✨
 
@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Preview
 
-![Screenshot](./preview.jpg) 
+![Screenshot](./assets/screenshoot.png) 
 
 
 ## My Process 🛠️
