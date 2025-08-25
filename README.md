@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Preview
 
-![Screenshot](./preview.jpg) 
+![Screenshot](./assets/screenshoot.png) 
 
 
 ## My Process 🛠️
